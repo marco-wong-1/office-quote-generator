@@ -15,7 +15,6 @@ describe('QuoteController (e2e)', () => {
           type: 'sqlite',
           database: 'office_quotes.sql',
           entities: [Quote],
-          synchronize: true,
         }),
         QuoteModule,
       ],
