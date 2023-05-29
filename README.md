@@ -8,7 +8,7 @@ This application is written using [NestJS](https://nestjs.com/), [TypeScript](ht
 
 ## Getting Started
 
-Clone down this repository. You will need node installed globally on your machine.
+[Clone down](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository. You will need node installed globally on your machine.
 
 Run `npm install` to install all dependencies.
 Then run `npm run start` to start the application.
